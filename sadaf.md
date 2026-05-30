@@ -1,4 +1,3 @@
-# data-engineering-acme-health-care
 # Enterprise Healthcare Insurance Data Engineering Platform on Google Cloud Platform
 
 **Production Architecture, Implementation & Operations Handbook**
